@@ -1,4 +1,4 @@
-### Biến dp[i][j]:
+XZ### Biến dp[i][j]:
 - dp[i][j] là giá trị boolean (true/false) cho biết liệu chuỗi con s[0..i-1] có khớp với chuỗi con p[0..j-1] hay không.
 
 ### khởi tạo
