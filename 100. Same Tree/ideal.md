@@ -17,3 +17,6 @@ if (p==NULL && q==NULL)
 cả hai đều rỗng
 
 Đệ qui: `return isSameTree(p->left, q->left) && isSameTree(p->right, q->right);` : để xét cả cây con phải và cây con trái
+
+## Testcase
+![image](https://github.com/user-attachments/assets/8783b6a8-5839-4fdf-b26c-09166f5801d0)
