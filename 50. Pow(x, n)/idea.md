@@ -23,3 +23,6 @@ double myPow(double x,long int n) {
 trường hợp:
 - n<0: ta sẽ chuyển về dạng lũy thừa rồi đổi dấu n thành dương `n=-n;`
    sau `return fu(x, n);` đó tính `x^n` như bình thường
+## Testcase
+Input: x = 2.00000, n = 10
+Output: 1024.00000
