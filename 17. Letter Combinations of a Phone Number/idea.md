@@ -40,3 +40,6 @@ for(auto candidate : pad[key-'0']){
   "b" + d,e,f -> "bd", "be", "bf"
   "c" + d,e,f -> "cd", "ce", "cf"
   
+## Testcase:
+Input: digits = "23"
+Output: ["ad","ae","af","bd","be","bf","cd","ce","cf"]
